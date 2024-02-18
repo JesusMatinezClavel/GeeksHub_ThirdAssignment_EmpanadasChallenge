@@ -120,4 +120,4 @@ export const fn = (a, b, c) => {
 }
 
 
-console.log(fn(12, 15, 12))
+// console.log(fn(11, 10, 9))
