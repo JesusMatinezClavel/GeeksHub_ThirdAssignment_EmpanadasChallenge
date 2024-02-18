@@ -24,8 +24,9 @@ Pero esta resolución no me pareció la mejor ya que no es exacta (es válida pa
 
 Para ello me volví a fijar en los ejemplos del test para estudiarlos mejor, ya que entendía como se dividían los primeros ejemplos 
 
-	|  |  |
+	| Syntax | Description |
 | ----------- | ----------- |
-| Paragraph | Text 
+| Arguments | Result |
+| (1,1,1) | 14 
 
 `((1,1,1) = 14 // (3,3,0) = 26 // (2,0,1) = 14)`
