@@ -24,7 +24,8 @@ Pero esta resolución no me pareció la mejor ya que no es exacta (es válida pa
 
 Para ello me volví a fijar en los ejemplos del test para estudiarlos mejor, ya que entendía como se dividían los primeros ejemplos 
 
-	| Syntax | Description |
+	| Arguments | Result |
+	| (1,1,1) | 14 |
 | ----------- | ----------- |
 | Arguments | Result |
 | (1,1,1) | 14 
